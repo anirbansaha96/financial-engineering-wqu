@@ -14,7 +14,7 @@ Module 1
 
 2) [Done] Empirical Distribution
 
-3) t-distribution, normal, log normal chi-square, F 
+3) [Done] t-distribution, normal, log normal chi-square, F 
 
 4) CAPM, Fama-French, APT
 

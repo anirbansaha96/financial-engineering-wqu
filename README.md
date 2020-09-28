@@ -16,7 +16,7 @@ Module 1
 
 3) [Done] t-distribution, normal, log normal chi-square, F 
 
-4) CAPM, Fama-French, APT
+4) [Done] CAPM, Fama-French, APT
 
 5) Sharpe, Parametric Vaue at Risk
 

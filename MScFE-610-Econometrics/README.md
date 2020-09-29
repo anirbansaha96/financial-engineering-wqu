@@ -11,7 +11,7 @@ Module 1
 
 4) [Done] CAPM, Fama-French, APT
 
-5) Sharpe, Parametric Vaue at Risk
+5) [Done] Sharpe, Parametric Vaue at Risk
 
 ______________________________________________________________
 

@@ -17,7 +17,7 @@ ______________________________________________________________
 
 Module 2
 
-1) Homoscedacity and heteroscedacity
+1) [Done] Homoscedacity and heteroscedacity - White Test and Breusch Pagan test
 
 2) Interpreting and Evaluating Regression Output:
 Using p-values and t-values, R-squared, adjusted R-squared and F-statistic
@@ -34,15 +34,13 @@ Using p-values and t-values, R-squared, adjusted R-squared and F-statistic
 
 8) Positive serial correlation
 
-9) White Test- Breusch Pagan test
+9) Multicollinearity - Detecting and Correcting
 
-10) Multicollinearity - Detecting and Correcting
+10) VIF
 
-11) VIF
+11) Logit Regression
 
-12) Logit Regression
-
-13) Linear Probability Model
+12) Linear Probability Model
 
 ___________________________________________________________
 

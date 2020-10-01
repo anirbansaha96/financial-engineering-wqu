@@ -5,5 +5,7 @@ I wish to work in a Quantitative Research-oriented role, and this course is a st
 
 This repository contains codes for some of the exercises. This mainly contains topics which I felt needed more clarification. For example, statistical concepts which are needed for Financial Engineering and Quantitative Analysis of Financial Markets.
 
+If you find any errors or would like to add any other content, please feel free to raise an issue/ create a pull request.
+
 If you wish to contribute, or you benefited from this repository reach out to me on [LinkedIn](https://www.linkedin.com/in/saha-anirban8/).
 

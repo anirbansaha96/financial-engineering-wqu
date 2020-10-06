@@ -46,21 +46,11 @@ ___________________________________________________________
 
 Module 3
 
-1) Autocorrelation
+1) Autocorrelation - ACF PACF - AR/ MA/ ARMA/ ARIMA
 
-2) ACF PACF
+2) KPSS
 
-3) KPSS
-
-4) AR
-
-5) MA
-
-6) ARMA
-
-7) ARIMA
-
-8) Thiel's U Statistic
+3) Thiel's U Statistic
 
 9) Box Jenkins Method
 

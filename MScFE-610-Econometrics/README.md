@@ -46,7 +46,7 @@ ___________________________________________________________
 
 Module 3
 
-1) Autocorrelation - ACF PACF - AR/ MA/ ARMA/ ARIMA
+1) Autocorrelation - ACF PACF - AR/ MA/ ARMA/ ARIMA - AIC
 
 2) KPSS
 
@@ -67,3 +67,47 @@ Module 4
 4) GARCH-M, TGARCH, EGARCH, IGARCH
 
 5) Kalman Filter
+
+____________________________________________________________
+
+Module 5
+
+1) Vector Auto Regressive Model
+
+2) Spurious Regression
+
+3) Impulse Response Function
+
+4) Forecast Variance Decomposition
+
+5) Cholesky Decomposition
+
+6) VECM
+
+7) Johansen Test
+
+8) Cointegration
+
+9) PCA-EFA
+
+10) Multivariate GARCH
+
+11) Constant Conditional Correlation Multivariate GARCH model
+
+12) Dynamic Conditional Correlation Multivariate GARCH model
+
+____________________________________________________________
+
+Module 6
+
+1) Copulas and three types of Special Copulas [Important]
+
+2) Extreme Value Theory
+
+3) Generalized Extreme Value - Including MLE
+
+4) GEV denity plot
+
+5) Generalized Pareto Distribution
+
+6) GEV Distribution

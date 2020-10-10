@@ -56,15 +56,11 @@ ____________________________________________________________
 
 Module 4
 
-1) ARCH
+1) ARCH - GARCH - GARCH-M, TGARCH, EGARCH, IGARCH
 
 2) MLE
 
-3) GARCH
-
-4) GARCH-M, TGARCH, EGARCH, IGARCH
-
-5) Kalman Filter
+3) Kalman Filter
 
 ____________________________________________________________
 

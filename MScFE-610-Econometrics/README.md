@@ -56,7 +56,9 @@ ____________________________________________________________
 
 Module 4
 
-1) ARCH - GARCH - GARCH-M, TGARCH, EGARCH, IGARCH
+1) [Done] ARCH - GARCH 
+
+2) GARCH-M, TGARCH, EGARCH, IGARCH
 
 2) MLE
 

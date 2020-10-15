@@ -107,3 +107,11 @@ Module 6
 5) Generalized Pareto Distribution
 
 6) GEV Distribution
+
+____________________________________________________________
+
+Module 6
+
+1) Hurst Exponent
+
+2) Algorithmic Trading and Backtesting

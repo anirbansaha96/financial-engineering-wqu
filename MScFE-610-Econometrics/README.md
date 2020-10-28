@@ -56,9 +56,7 @@ ____________________________________________________________
 
 Module 4
 
-1) [Done] ARCH - GARCH 
-
-2) GARCH-M, TGARCH, EGARCH, IGARCH
+1) [Done] ARCH - GARCH - GARCH-M, TGARCH, EGARCH, IGARCH
 
 2) MLE
 
@@ -110,7 +108,7 @@ Module 6
 
 ____________________________________________________________
 
-Module 6
+Module 7
 
 1) Hurst Exponent
 

@@ -22,25 +22,23 @@ Module 2
 2) Interpreting and Evaluating Regression Output:
 Using p-values and t-values, R-squared, adjusted R-squared and F-statistic
 
-3) Augmented Dickey-Fuller test
+3) [Done] Unit Root - Stationarity - Augmented Dickey-Fuller test
 
-4) Unit Root - Stationarity
+4) Mean Reversing
 
-5) Mean Reversing
+5) Covariance Stationary
 
-6) Covariance Stationary
+6) Durbin Watson Test
 
-7) Durbin Watson Test
+7) Positive serial correlation
 
-8) Positive serial correlation
+8) Multicollinearity - Detecting and Correcting
 
-9) Multicollinearity - Detecting and Correcting
+9) VIF
 
-10) VIF
+10) Logit Regression
 
-11) Logit Regression
-
-12) Linear Probability Model
+11) Linear Probability Model
 
 ___________________________________________________________
 
@@ -56,9 +54,7 @@ ____________________________________________________________
 
 Module 4
 
-1) [Done] ARCH - GARCH 
-
-2) GARCH-M, TGARCH, EGARCH, IGARCH
+1) [Done] ARCH - GARCH - GARCH-M, TGARCH, EGARCH, IGARCH
 
 2) MLE
 
@@ -110,7 +106,7 @@ Module 6
 
 ____________________________________________________________
 
-Module 6
+Module 7
 
 1) Hurst Exponent
 

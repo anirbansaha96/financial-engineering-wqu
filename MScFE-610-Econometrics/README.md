@@ -24,7 +24,7 @@ Using p-values and t-values, R-squared, adjusted R-squared and F-statistic
 
 3) [Done] Unit Root - Stationarity - Augmented Dickey-Fuller test
 
-4) Mean Reversing
+4) [Done] Mean Reversing
 
 5) Covariance Stationary
 

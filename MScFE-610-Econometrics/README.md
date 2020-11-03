@@ -26,9 +26,7 @@ Using p-values and t-values, R-squared, adjusted R-squared and F-statistic
 
 4) [Done] Mean Reversing
 
-5) Covariance Stationary
-
-6) Durbin Watson Test
+5) [Done] Covariance Stationary and Durbin Watson Test
 
 7) Positive serial correlation
 

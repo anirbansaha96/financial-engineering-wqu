@@ -28,13 +28,11 @@ Using p-values and t-values, R-squared, adjusted R-squared and F-statistic
 
 5) [Done] Covariance Stationary and Durbin Watson Test Positive serial correlation
 
-6) Multicollinearity - Detecting and Correcting
+6) [Done] Multicollinearity - Detecting and Correcting - VIF
 
-7) VIF
+7) Logit Regression
 
-8) Logit Regression
-
-9) Linear Probability Model
+8) Linear Probability Model
 
 ___________________________________________________________
 
